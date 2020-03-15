@@ -26,6 +26,7 @@ About the performance
     Accuracy: : 75.42%
     F1 Score: : 73.41%
     Precision Score: : 74.67%
+    Recall Score: : 83.84%
     
 The data can be obtained from my drive if required. Please reach out to me at mkyadav0625@gmail.com
-    Recall Score: : 83.84%
+    
